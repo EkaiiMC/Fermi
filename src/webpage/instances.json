@@ -8,8 +8,8 @@
         "country": "FR",
         "display": true,
 		"urls": {
-        	"wellknown": "https://spacebar.ekaii.fr/",
-        	"api": "https://spacebar-api.ekaii.fr",
+        	"wellknown": "https://spacebar.ekaii.fr",
+        	"api": "https://spacebar-api.ekaii.fr/api/v9",
         	"cdn": "https://spacebar-cdn.ekaii.fr",
         	"gateway": "wss://spacebar.ekaii.fr"
 		}
