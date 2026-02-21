@@ -6,6 +6,12 @@
         "url": "https://spacebar.ekaii.fr",
         "language": "fr",
         "country": "FR",
-        "display": true
+        "display": true,
+		"urls": {
+        	"wellknown": "https://spacebar.ekaii.fr/",
+        	"api": "https://spacebar-api.ekaii.fr",
+        	"cdn": "https://spacebar-cdn.ekaii.fr",
+        	"gateway": "wss://spacebar.ekaii.fr"
+		}
     }
 ]
